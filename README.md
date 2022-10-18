@@ -5,7 +5,9 @@ My name is Leonardo, I'm a programmer and Mechanical Engineer. Ultimately, I've 
 # My Projects:
 - [Portfolio App](https://github.com/leonardo-asad/Portfolio-App), an app to track and analyse your stock investments.
   
-# How to reach me: leonardo.asad.89@gmail.com
+# How to reach me: 
+
+You can reach me at: leonardo.asad.89@gmail.com
 
 <!--
 **leonardo-asad/leonardo-asad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
