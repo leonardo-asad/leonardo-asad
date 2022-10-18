@@ -3,7 +3,7 @@
 My name is Leonardo, I'm a programmer and Mechanical Engineer. Ultimately, I've been working on different projects to expand my knowledge in Web Programming, such as my last project, which is basically a web app to track and analyse Stock portfolios. If you wish, you can check out my repositories to find other projects as well.
 
 # My Projects:
-- [Portfolio App](https://github.com/leonardo-asad/Portfolio-App)
+- [Portfolio App](https://github.com/leonardo-asad/Portfolio-App), an app to track and analyse your stock investments.
   
 # How to reach me: leonardo.asad.89@gmail.com
 
