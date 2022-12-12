@@ -3,8 +3,8 @@
 My name is Leonardo, I'm a programmer and a Mechanical Engineer. Ultimately, I've been working on different projects to expand my knowledge in Web Programming.
 
 # My Projects:
+- [E-Commerce](https://github.com/leonardo-asad/E-Commerce), E-Commerce Demo app.
 - [Portfolio App](https://github.com/leonardo-asad/Portfolio-App), an app to track and explore Stocks and ETFs portfolios.
-- [E-Commerce Rest API](https://github.com/leonardo-asad/E-Commerce), REST API implementation of an E-Commerce app.
   
 # How to reach me: 
 
