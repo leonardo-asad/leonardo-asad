@@ -8,7 +8,7 @@ My name is Leonardo, I'm a Full Stack Web Developer. I am passionate about progr
   
 # How to reach me: 
 
-You can reach me at: leonardo.asad.89@gmail.com
+You can reach me at: leonardo.daniel.asad@gmail.com
 
 <!--
 **leonardo-asad/leonardo-asad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
