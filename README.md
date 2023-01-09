@@ -3,7 +3,7 @@
 My name is Leonardo, I'm a Full Stack Web Developer. I am passionate about programming and during my time I'm working to create new applications and expand my knowledge.
 
 # My Projects:
-- [E-Commerce](https://github.com/leonardo-asad/E-Commerce), E-Commerce Demo app.
+- [E-Commerce](https://github.com/leonardo-asad/E-Commerce), E-Commerce Demo website.
 - [Portfolio App](https://github.com/leonardo-asad/Portfolio-App), an app to track and explore Stocks and ETFs portfolios.
   
 # How to reach me: 
