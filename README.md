@@ -5,6 +5,7 @@ My name is Leonardo, I'm a Full Stack Web Developer. I am passionate about progr
 # My Projects:
 - [E-Commerce](https://github.com/leonardo-asad/E-Commerce), E-Commerce Demo website.
 - [Portfolio App](https://github.com/leonardo-asad/Portfolio-App), an app to track and explore Stocks and ETFs portfolios.
+- [Smart Detector of Depressive Disorder](https://github.com/leonardo-asad/Smart-Detector-of-Depressive-Disorder), a text-based detector of depression symptoms.
   
 # How to reach me: 
 
